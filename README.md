@@ -2,5 +2,5 @@
 TEST 
 TEST PARA SINCRONIZACION CON RSTUDIO
 $ git config --list
-user.name=John Doe
-user.email=johndoe@example.com
+user.name=YESIVT
+user.email=YESIVT@HOTMAIL.com
