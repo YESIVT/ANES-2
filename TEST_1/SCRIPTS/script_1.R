@@ -102,7 +102,7 @@ sd(dbh.up30)
 #función read.csv
 
 
-Fert <- read.csv("TEST_1/SCRIPTS/vivero1.csv", header = TRUE)
+Fert <- read.csv("TEST_1/SCRIPTS/vivero1.csv", header = TRUE) 
 Fert$Tratamiento
 boxplot(Fert$IE ~ Fert$Tratamiento)
 
