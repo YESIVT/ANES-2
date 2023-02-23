@@ -22,7 +22,7 @@ prof_url_2 <- paste0("http://www.profepa.gob.mx/innovaportal/",
                      "file/7635/1/accionesInspeccionfoanp.csv")
 
 conjunto <- source_data("https://www.dropbox.com/s/hmsf07bbayxv6m3/cuadro1.csv?dl=1")
-
+conjunto
 
 
 #datos de GITHUB
