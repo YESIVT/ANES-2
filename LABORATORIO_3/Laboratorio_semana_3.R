@@ -42,3 +42,7 @@ file <- paste0("https://raw.githubusercontent.com/mgtagle/",
 inventario <- read_csv(file)
 head(inventario)
 
+
+# Parte 2: Operaciones con la base de datos  ------------------------------
+
+
