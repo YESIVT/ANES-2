@@ -29,13 +29,8 @@ conjunto
 
 conjunto <- source_data("https://www.dropbox.com/s/hmsf07bbayxv6m3/cuadro1.csv?dl=1")
 conjunto
-
-## Downloading data from: https://www.dropbox.com/s/hmsf07bbayxv6m3/cuadro1.csv?dl=1
-
-
 head(conjunto)
 
-## Arbol Fecha Especie Clase Vecinos Diametro Altura
 library(readr)
 file <- paste0("https://raw.githubusercontent.com/mgtagle/",
                "202_Analisis_Estadistico_2020/master/cuadro1.csv")
