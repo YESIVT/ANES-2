@@ -49,5 +49,73 @@ mean(calif)
 
 
 # Problema 5 --------------------------------------------------------------
+#El número de semillas germinadas (Germinaciones) que se encontraron en las cajas petri se muestran en el siguiente cuadro.
+
+germi <- c(5,6,7,8,9)
+germi
+petri <- c(1,3,5,3,1)
+petri
+
+Germinacion <- data.frame(petri, germi)
+Germinacion
+sum(Germinacion$petri)
 
 
+germ.2 <- c(5, 6, 6, 6, 7, 7, 7, 7, 7, 8, 8, 8, 9)
+germ.2
+c.petri <- c(1:13)
+c.petri
+Germ2 <- data.frame(c.petri, germ.2)
+Germ2
+
+mean(Germ2$germ.2)
+median(Germ2$germ.2)
+
+stem(germ.2)
+
+hist(germ.2)
+#Para visualizar los datos podemos utilizar el histograma
+
+set <- c(2, 2, 3, 6, 10)
+
+# Problema 6 --------------------------------------------------------------
+
+mean(set)
+median(set)
+
+library(modeest)
+mfv(set)
+
+set.5 <- (set+5)
+set.5
+mean(set.5)
+median(set.5)
+mfv(set.5)
+
+#En la media, moda y mediana al sumarle 5, el resultado refleja ese mismo número de aumento
+
+setpor5 <- (set*5)
+setpor5
+mean(setpor5)
+median(setpor5)
+mfv(setpor5)
+
+#Cuando es multiplicación se incrementan los valores
+
+
+# Problema 7 --------------------------------------------------------------
+
+datos <- c(0,1,2,3,4,5,6,7,8,9)
+datos1 <- c(7,7,7,7,7)
+median(datos1)
+datos2 <- c(5,6,7,8,9)
+mean(datos2)
+
+datos3 <- c(5,5,7,8,9)
+median(datos3)
+mean(datos3)
+
+# Seleccionamos los datos y creamos objetos con diferentes grupos de números y en base a eso calcularmos moda, media y mediana.
+
+
+  
