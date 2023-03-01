@@ -172,3 +172,14 @@ var(fires)
 
 #10. Realice un boxplot personalizado con los datos de los incendios.
                  
+boxplot(fires, horizontal = TRUE)
+points(mean(fires), 1, col = 1, pch = 19)
+#Punto que indica la media agregado
+mean(fires)
+
+#FIN
+
+
+              
+       
+       
