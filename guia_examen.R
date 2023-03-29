@@ -101,8 +101,8 @@ sd(dbh.up30)
 
 #función read.csv
 
-
-Fert <- read.csv("TEST_1/SCRIPTS/vivero1.csv", header = TRUE) 
+getwd()
+Fert <- read.csv("vivero1.csv", header = TRUE) 
 Fert$Tratamiento
 boxplot(Fert$IE ~ Fert$Tratamiento)
 
@@ -624,7 +624,7 @@ cor.test(suelos$pH, suelos$Na)
 
 cor.test(suelos$pH, suelos$Conduc)
 
-
+getwd()
 cuadro5p_H <- read.csv("cuadro5.csv")
 
 cuadro5p_H
@@ -648,7 +648,7 @@ corrplot(suelos.cor, tl.col="black", bg="white", tl.srt=45,
 
 
 
-#yesenia 
+#yesenia.
 
 
 
