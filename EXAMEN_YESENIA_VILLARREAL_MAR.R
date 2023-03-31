@@ -133,4 +133,4 @@ plot(TUKEY.test)
 #Sin embargo, la zona 3-1, 4-1, 3-2, 4-2, 4-3, si tienen diferencias estadísticamente significativas.
 
 #PUNTAJE MAXIMO
- #50
+ #50.
