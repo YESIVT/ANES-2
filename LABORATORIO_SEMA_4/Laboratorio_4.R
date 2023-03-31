@@ -146,4 +146,4 @@ h2 <- hist(inventario$Altura, xaxt = "n",
 axis(1, h1$mids)
 
 #FIN 1
-culpame a mi 
+
