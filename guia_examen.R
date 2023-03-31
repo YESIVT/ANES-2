@@ -250,7 +250,7 @@ mean(DBH.16$Diametro)
 
 
 # Líneas de comando en R --------------------------------------------------
-#Insertar daros con URL
+#Insertar daTos con URL
 
 library(repmis)
 conjunto2 <- source_data("https://www.dropbox.com/s/hmsf07bbayxv6m3/cuadro1.csv?dl=1")
@@ -493,7 +493,8 @@ porcentaje4.6
 
 #Boxplots
 #Problema 4
-#¿Qué porcentaje de las observaciones en una distribución se encuentran entre el primer y el tercer
+#¿Qué porcentaje de las observaciones en una distribución se encuentran entre 
+#el primer y el tercer
 #cuartil?
 
 boxplot(quakes$mag, horizontal=TRUE)
