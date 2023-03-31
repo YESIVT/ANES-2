@@ -46,7 +46,7 @@ head(conjunto)
 #individuos tiene un diámetro menor (<) a 10 cm?
   # Indica la sumatoria de los individuos en el objeto tree con un dbh < a 10
  # sum(trees$dbh < 10)
-
+#library(modeest) para MODA
 
 #library(corrplot), CORRELACION DE VARIABLES,  MATRIZ DE CORRELACION - GRAFICA DE CIRCULOS DE COLORES 
 #ESTADISTICA DESCRIPTIVA BOX PLOT - CAJA DE BIGOTES
