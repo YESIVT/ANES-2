@@ -8,7 +8,7 @@
 
  ✔SEMANA 1  (26/01/2023): Clase 1: Creación de cuenta de GitHub y sincronización de Git con RStudio.
  
- [script](https://github.com/YESIVT/ANES-2/tree/main/SCRIPTS)
+ [Script 01](https://github.com/YESIVT/ANES-2/tree/main/SCRIPTS)
 
 📅 03/02/2023 Laboratorio 1: Empezar con R y RStudio 
 [Laboratorio 01](https://github.com/YESIVT/ANES-2/tree/main/LABORATORIOS/LAB_01)
