@@ -15,23 +15,23 @@
 📅 26/01/2023 Tarea 1: Primer análisis en R
 [Tarea 01](https://github.com/YESIVT/ANES-2/tree/main/TAREAS/TAREA_01)
 
-✔SEMANA 2: Clase 2: Elaboración de Script con operaciones y estadística básica, boxplot, histogramas e importación base de datos
+✔SEMANA 2: Clase 2: Elaboración de Script con operaciones y estadística básica, boxplot, histogramas e importación de base de datos
 
-[script 02](https://github.com/YESIVT/ANES-2/tree/main/SCRIPTS)
+[Script 02](https://github.com/YESIVT/ANES-2/tree/main/SCRIPTS)
 
-📅 23/02/2023 Laboratorio 3: Importar datos a R 
+📅 23/02/2023 Laboratorio 3: Importar datos a RStudio
 [Laboratorio 03](https://github.com/YESIVT/ANES-2/tree/main/LABORATORIOS/LABORATORIO_3)
 
 📅 23/02/2023 Tarea 2: Uso de restricciones y estadísticas descriptivas
 [Tarea 02](https://github.com/YESIVT/ANES-2/tree/main/TAREAS/TAREA_02)
 
-✔SEMANA 3: Clase 3: Importar datos desde URL's, funcion subset(), representaciones graficas (histogramas, barplot)
+✔SEMANA 3: Clase 3: Importar datos desde URL's, función subset(), representaciones gráficas (histogramas, barplot)
 
 📅 25/02/2023 Tarea 3: Medidas de tendencia central 
 [Tarea 03](https://github.com/YESIVT/ANES-2/tree/main/TAREAS/TAREA_03)
 
 
-✔SEMANA 4: Clase 4: Resumir datos graficamente (Grafica circular, histogramas)
+✔SEMANA 4: Clase 4: Resumir datos gráficamente (gráfica circular, histogramas)
 
 📅 01/03/2023 Laboratorio 4: Resumir datos gráficamente
 [Laboratorio 04](https://github.com/YESIVT/ANES-2/tree/main/LABORATORIOS/LABORATORIO_SEMA_4)
