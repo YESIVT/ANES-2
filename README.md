@@ -12,7 +12,7 @@
 [Laboratorio 01](https://github.com/YESIVT/ANES-2/tree/main/LABORATORIOS/LAB_01)
 
 📍26/01/2023 Tarea 1: Primer análisis en R
-[Tarea 01](https://github.com/YESIVT/ANES-2/tree/main/LABORATORIOS/LAB_01](https://github.com/YESIVT/ANES-2/tree/main/TAREAS/TAREA_01)
+[Tarea 01](https://github.com/YESIVT/ANES-2/tree/main/TAREAS/TAREA_01)
 
 TEST PARA SINCRONIZACION CON RSTUDIO
 
