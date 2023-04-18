@@ -62,7 +62,9 @@ Clase 8: Exámen práctico
 
 # Gráfica de contribución al repositorio 📉
 
-![image](https://user-images.githubusercontent.com/123662539/232900979-4d0f7281-8094-414b-a243-f175c12a3ff7.png)
+![image](https://user-images.githubusercontent.com/123662539/232902296-ce7d2f86-8ac4-486e-bda2-5ff8ac66ca62.png)
+
+![image](https://user-images.githubusercontent.com/123662539/232902376-2558dde8-bc10-4e08-b73f-a6b915342f53.png)
 
 
 
