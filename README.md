@@ -59,7 +59,7 @@ Semana 5: Clase 5: Correlación, cuarteto de anscombe, coeficiente de correlaci�
 📍 10/03/2023 Tarea 5: Correlación 
 [Tarea 05](https://github.com/YESIVT/ANES-2/tree/main/TAREAS/TAREA_05)
 
-Semana 6: Clase 6: Repaso de estadística basica, importar base de datos en linea y elaboracion de histogramas  
+Semana 6: Clase 6: Repaso de estadística básica, importar base de datos en línea y elaboración de histogramas  
 Semana 7: Clase 7: Repaso de boxplots y correlación
 
 
