@@ -58,6 +58,7 @@ Clase 8: Exámen práctico
 📍 31/03/2023 Exámen en RStudio
 [Exámen](https://github.com/YESIVT/ANES-2/tree/main/EXAMEN)
 
+# Orden cronológico del listado de clases vistas durante la primera parte del curso
 
 # Gráfica de contribución al repositorio
 
