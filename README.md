@@ -7,6 +7,8 @@
 # Desarrollo del curso
 
  1: Clase 1: Creación de cuenta de GitHub y sincronización de Git con RStudio
+ [script](https://github.com/YESIVT/ANES-2/tree/main/SCRIPTS)
+
 
 📍26/01/2023 Laboratorio 1: Empezar con R y RStudio 
 [Laboratorio 01](https://github.com/YESIVT/ANES-2/tree/main/LABORATORIOS/LAB_01)
@@ -30,6 +32,8 @@ user.email=YESIVT@HOTMAIL.com
 >>>>>>> 31bfd1ccc896b0a03f42f25a9658ac8ee9a31908
 
 Semana 2: Clase 2: Elaboración de Script con operaciones y estadística básica, boxplot, histogramas e importación base de datos
+
+[script 02](https://github.com/YESIVT/ANES-2/tree/main/SCRIPTS)
 
 📍23/02/2023 Laboratorio 3: Importar datos a R 
 [Laboratorio 03](https://github.com/YESIVT/ANES-2/tree/main/LABORATORIOS/LABORATORIO_3)
@@ -63,8 +67,9 @@ Semana 6: Clase 6: Repaso de estadística básica, importar base de datos en lí
 Semana 7: Clase 7: Repaso de boxplots y correlación
 
 
-Clase 8: Exámen práctico en RStudio
-📍 31/03/2023 Exámen
+Clase 8: Exámen práctico 
+📍 31/03/2023 Exámen en RStudio
+[Exámen](https://github.com/YESIVT/ANES-2/tree/main/EXAMEN)
 
 
 # Gráfica de contribución al repositorio
