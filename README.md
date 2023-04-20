@@ -1,6 +1,4 @@
 # YESENIA VILLARREAL TORRES
-<<<<<<< HEAD
-=======
 # Producto integrador del aprendizaje
 # Repositorio GitHub
 
