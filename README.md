@@ -39,7 +39,7 @@
 📅 01/03/2023 Laboratorio 4: Resumir datos gráficamente
 [Laboratorio 04](https://github.com/YESIVT/ANES-2/tree/main/LABORATORIOS/LABORATORIO_SEMA_4)
 
-📅 01/03/2023 Tarea 4: Boxplot e Histogramas
+📅 01/03/2023 Tarea 4: Boxplot e histogramas
 [Tarea 04](https://github.com/YESIVT/ANES-2/tree/main/TAREAS/TAREA_04)
 
 ✔SEMANA 5 (23/02/2023): Clase 5: Correlación, cuarteto de anscombe, coeficiente de correlación
@@ -80,8 +80,6 @@ Semana 1: Clase 1: Creación de cuenta de GitHub y sincronización de Git con RS
 
 📍26/01/2023 Laboratorio 1: Empezar con R y RStudio
 📍26/01/2023 Tarea 1: Primer análisis en R
-
-TEST PARA SINCRONIZACION CON RSTUDIO
 
   
 <<<<<<< HEAD
